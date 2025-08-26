@@ -1,4 +1,9 @@
-## Hi there 👋
-<img src="https://github.com/user-attachments/assets/7cbda939-5efd-4c61-90d6-9ef751ffa726" alt="chill" width="250" />
+## Hi there looking for a 0.10X Developer?
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There;General+Kenobi)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7cbda939-5efd-4c61-90d6-9ef751ffa726" alt="chill" width="300" />
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?lines=Hello+There;General+Kenobi" alt="Typing SVG" />
+  </a>
+</p>
