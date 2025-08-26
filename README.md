@@ -30,10 +30,11 @@
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff" />
   <img src="https://img.shields.io/badge/Others%20I%27m%20probably%20forgetting-8A2BE2"/>
 </p>
+
 
 ---
 
