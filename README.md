@@ -35,8 +35,6 @@
   <img src="https://img.shields.io/badge/Others%20I%27m%20probably%20forgetting-8A2BE2"/>
 </p>
 
-<p align="center">And others I'm probably forgetting </p>
-
 ---
 
 ## 🚀 Projects
