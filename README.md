@@ -18,10 +18,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=I+had+to+hire+PI+to+find+docs+to+API.He+told+me:'don't+worry+you+forgot+the+query'" alt="Typing SVG" />
-  </a>
-  <img src="https://github.com/user-attachments/assets/7cbda939-5efd-4c61-90d6-9ef751ffa726" alt="chill" />
+    <img src="https://readme-typing-svg.demolab.com?lines=I+had+to+hire+PI+to+find+docs+to+API,he+told+me:'don't+worry+you+forgot+the+query'" alt="Typing SVG" />
 </p>
 
 ---
