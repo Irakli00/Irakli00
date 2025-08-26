@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?lines=I+had+to+hire+PI+to+find+docs+to+API,he+told+me:'don't+worry+you+forgot+the+query'" alt="Typing SVG" />
+   I had to hire PI to find docs to API,he told me:'don't worry you forgot the query'
 </p>
 
 ---
