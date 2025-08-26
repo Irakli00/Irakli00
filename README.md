@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💻 I’m a junior full-stack developer with a talent for creating user interfaces like a back-end developer, and a love for working with SQL like a front-end developer.
+- 💻 I’m a junior full-stack developer with a talent for creating UI like a back-end developer, and a love for SQL like a front-end developer.
 - 🌱 Currently learning **How to center a div**  
 - 🚀 Working on exciting web apps for **2 monthly active users**  
 - 🎯 Goal: Become **employed**  
