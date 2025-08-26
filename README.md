@@ -4,6 +4,6 @@
   <img src="https://github.com/user-attachments/assets/7cbda939-5efd-4c61-90d6-9ef751ffa726" alt="chill" width="300" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hello+There+I'm+Irakli" alt="Typing SVG" align='center/>
+    <img src="https://readme-typing-svg.demolab.com?lines=Hello+There+I'm+Irakli" alt="Typing SVG" align='center'/>
   </a>
 </p>
