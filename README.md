@@ -16,9 +16,12 @@
 - 🎯 Goal: Become **employed**  
 
 ---
-
+## Miscellaneous
 <p align="center">
-   I had to hire PI to find docs to API,he told me:'don't worry you forgot the query'
+   I had to hire PI to find docs to API,he told me:"don't worry you forgot the query"
+</p>
+<p align="center">
+   Whoever let me get in Top 10 in hackathon with "Uglier", must have sense of humor as stupid as mine (happy though)
 </p>
 
 ---
